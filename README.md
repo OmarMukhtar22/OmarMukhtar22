@@ -7,12 +7,21 @@
 
 - 🔭 I’m **"a recent graduate holding a Bachelor's degree in Informatics Engineering**
 - 🌱 I’m currently learning **React.js, Golang and PostgreSQL**
-- 💬 Ask me about **JavaScript, Laravel, Tailwind, Web Development**
 - ⚡ Fun fact: I love noodles and kebab
 
 ---
+## 🔗 Connect with me
 
-## 🛠️ Languages and Tools
+<p>
+  <a href="mailto:omarmukhtar315@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-mukhtar/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -41,10 +50,10 @@
 
 ---
 
-## 🔗 Connect with me
+## 📊 Repository Activity
 
-<p>
-  <a href="mailto:omarmukhtar315@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> Example below shows stats for one repo. Replace `REPO-NAME` with actual project.
+
+| Commits | Open Issues | Open PRs |
+|---------|-------------|----------|
+| ![Commits](https://img.shields.io/github/commit-activity/m/omarmukhtar22/Thesis-ku) | ![Issues](https://img.shields.io/github/issues/omarmukhtar22/Thesis-ku) | ![PRs](https://img.shields.io/github/issues-pr/omarmukhtar22/Thesis-ku) |
