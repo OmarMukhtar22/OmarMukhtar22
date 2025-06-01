@@ -49,20 +49,3 @@
 </p>
 
 ---
-
-## 🧑‍💻 Contribution Summary
-
-<!-- GitHub contribution chart image from external service -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/OmarMukhtar22" alt="GitHub contribution chart" />
-</p>
-
----
-
-## 📊 Activity Overview
-
-- 🧠 **Contributed to:**
-  - [OmarMukhtar22/Thesis-ku](https://github.com/OmarMukhtar22/Thesis-ku)
-  - [OmarMukhtar22/OmarMukhtar22](https://github.com/OmarMukhtar22/OmarMukhtar22)
-  - [OmarMukhtar22/bookshelf-API](https://github.com/OmarMukhtar22/bookshelf-API)
-  - and 5+ other repositories
